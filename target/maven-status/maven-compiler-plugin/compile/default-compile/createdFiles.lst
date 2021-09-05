@@ -1,0 +1,13 @@
+pages\InsurancePage.class
+pages\BasePage.class
+steps\InsuranceSteps.class
+steps\TravelInsuranceSteps.class
+util\TestProperties.class
+util\AllureReporter.class
+pages\TravelInsurancePage.class
+steps\BaseSteps.class
+steps\MainSteps.class
+steps\ScenarioSteps.class
+pages\MainPage.class
+pages\SetValuesTravelInsurancePage.class
+steps\SetValuesTravelInsuranceSteps.class

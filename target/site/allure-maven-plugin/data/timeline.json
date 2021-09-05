@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "NB-03084",
+    "children" : [ {
+      "name" : "9352@NB-03084.main(1)",
+      "children" : [ {
+        "name" : "Страхование путешественников",
+        "uid" : "74b8bc9bab85a486",
+        "parentUid" : "e2d331ae13979274288b6f48dc0b21a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630881573777,
+          "stop" : 1630881700268,
+          "duration" : 126491
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2d331ae13979274288b6f48dc0b21a2"
+    } ],
+    "uid" : "9ee7d8d1c303f0ad9020967e5ae1d03b"
+  } ]
+}
